@@ -274,3 +274,7 @@ console.log(axios);
 var hienTHiTHongTin= function(){
     console.log('userB_commit');
 }
+
+var f_devB = function(){
+    console.log('devB');
+}
