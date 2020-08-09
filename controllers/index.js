@@ -268,3 +268,6 @@ var layDuLieuLocalStorage = function(){
 layDuLieuLocalStorage();
 
 console.log(axios);
+var hienTHiTHongTin= function(){
+    console.log('userB_commit');
+}
