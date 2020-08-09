@@ -280,3 +280,6 @@ var laySinhVienCoDiemCaoNhat = function(){
 var userC = function(){
     console.log('userC')
 }
+var master = function(){
+    console.log('master')
+}
