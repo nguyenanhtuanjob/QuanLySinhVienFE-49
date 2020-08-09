@@ -2,6 +2,7 @@
 
 //mangSinhVien: chứa thông tin tất cả cả sinh viên dược thêm từ form
 var mangSinhVien =[];
+var hihi =[];
 var validate = new Validation();
 
 var hihaha= [];
@@ -270,7 +271,6 @@ layDuLieuLocalStorage();
 
 console.log(axios);
 
-// var hienThiThongTinSinhVien = function(){
-//     console.log('UserB,hien thi thông tin');
-// }
-
+var hienTHiTHongTin= function(){
+    console.log('userB_commit');
+}
