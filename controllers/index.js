@@ -2,6 +2,7 @@
 
 //mangSinhVien: chứa thông tin tất cả cả sinh viên dược thêm từ form
 var mangSinhVien =[];
+var hihi =[];
 var validate = new Validation();
 
 
