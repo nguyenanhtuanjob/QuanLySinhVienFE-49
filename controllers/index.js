@@ -277,3 +277,7 @@ var hienTHiTHongTin= function(){
 var laySinhVienCoDiemCaoNhat = function(){
     console.log('userB','laySinhVienDiemCaoNhat');
 }
+
+var f_devB = function(){
+    console.log('devB');
+}
