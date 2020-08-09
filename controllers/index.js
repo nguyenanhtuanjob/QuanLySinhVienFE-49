@@ -278,12 +278,9 @@ var laySinhVienCoDiemCaoNhat = function(){
     console.log('userB','laySinhVienDiemCaoNhat');
 }
 
-<<<<<<< HEAD
 var f_devB = function(){
     console.log('devB');
 }
-=======
 var dev_A = function(){
     console.log('devA');
 }
->>>>>>> devA
