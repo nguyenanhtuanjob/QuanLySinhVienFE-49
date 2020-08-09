@@ -274,3 +274,6 @@ console.log(axios);
 var hienTHiTHongTin= function(){
     console.log('userB_commit');
 }
+var laySinhVienCoDiemCaoNhat = function(){
+    console.log('userB','laySinhVienDiemCaoNhat');
+}
